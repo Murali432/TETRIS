@@ -4,11 +4,11 @@ A simple Tetris game built using HTML, CSS, and JavaScript. Play the classic blo
 🛠️ Technologies Used
 
 
-HTML for structure
+a. HTML for structure
 
-CSS for styling
+b. CSS for styling
 
-JavaScript for game logic
+c. JavaScript for game logic
 
 🎯 How to Play
 Arrow Left (←): Move piece left
@@ -26,6 +26,7 @@ Arrow Up (↑): Rotate piece
 ✅ Game over detection
 
 🚀 How to Run
+
 Clone this repository:
 
 Open index.html in your browser and run the live server which will take you to the port 5501 in your browser.
