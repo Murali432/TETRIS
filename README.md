@@ -2,6 +2,8 @@
 A simple Tetris game built using HTML, CSS, and JavaScript. Play the classic block-stacking puzzle game directly in your browser!
 
 🛠️ Technologies Used
+
+
 HTML for structure
 
 CSS for styling
@@ -25,5 +27,5 @@ Arrow Up (↑): Rotate piece
 
 🚀 How to Run
 Clone this repository:
-git clone https://github.com/yourusername/tetris-game.git
+
 Open index.html in your browser and run the live server which will take you to the port 5501 in your browser.
